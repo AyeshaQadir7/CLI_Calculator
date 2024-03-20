@@ -1,1 +1,1 @@
-# Typescript_Projects
+# project00_calculator
