@@ -1,4 +1,4 @@
-# project00_calculator
+# Simple_Calculator
 
 installation => npm i ap_07_project00_calculator
 <br>
